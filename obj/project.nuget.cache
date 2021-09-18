@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UP/PEE6rTB5+PgU1/IzVseEaLELFf6+5xD2/VtFg3dLfuZ7YuKv1ndv4qYkdWTcg9rzxT604rNnv+WI0TE5Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MichelinJV\\Desktop\\Compartilhamento\\testeCSharp\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MichelinJV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
